@@ -117,7 +117,7 @@ The dataset consists of five CSV files that are merged during preprocessing:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SalemAlnaqbi/Insurance-Fraud-Detection-A-Data-Science-Approach.git
+git clone https://github.com/SalemAlnaqbi/Insurance-Fraud-Detection.git
 cd Insurance-Fraud-Detection-A-Data-Science-Approach
 ```
 
