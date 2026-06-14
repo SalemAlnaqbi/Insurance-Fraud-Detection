@@ -359,10 +359,4 @@ class_weight: None
 
 ---
 
-## 📚 References
-
-1. Tan, P.-N., Steinbach, M. and Kumar, V. (2019). *Introduction to Data Mining*. 2nd edn. Pearson Education.
-2. Bishop, C.M. (2006). *Pattern Recognition and Machine Learning*. Springer.
-3. [scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-4. [pandas Documentation](https://pandas.pydata.org/docs/)
 
